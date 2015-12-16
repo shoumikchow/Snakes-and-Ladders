@@ -8,3 +8,6 @@ This is a Snakes and Ladders game that is played between two people, each taking
 
 Note: It should be noted that due to a Netbeans bug, when the application is run, the button and the text fields on the right of the board is not shown. The mouse should be hovered to the place where the “Roll” button is located and clicked twice in order to reveal all the fields.
 
+**Language used:**
+
+* Java
